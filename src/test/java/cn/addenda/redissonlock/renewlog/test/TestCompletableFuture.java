@@ -1,4 +1,4 @@
-package cn.addenda.redissonlock.renewlog;
+package cn.addenda.redissonlock.renewlog.test;
 
 import org.junit.Test;
 

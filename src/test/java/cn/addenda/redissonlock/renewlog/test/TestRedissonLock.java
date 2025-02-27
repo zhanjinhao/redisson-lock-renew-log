@@ -1,5 +1,6 @@
-package cn.addenda.redissonlock.renewlog;
+package cn.addenda.redissonlock.renewlog.test;
 
+import cn.addenda.redissonlock.renewlog.RedissonLockRenewLogWrapper;
 import lombok.SneakyThrows;
 import org.junit.Test;
 import org.redisson.Redisson;
